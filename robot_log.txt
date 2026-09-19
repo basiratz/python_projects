@@ -1,0 +1,106 @@
+[10:00:01] INFO Robot system starting
+[10:00:02] INFO Battery level: 98
+[10:00:03] INFO Motor left started
+[10:00:04] INFO Motor right started
+[10:00:05] INFO Ultrasonic sensor initialized
+[10:00:06] INFO Temperature sensor initialized
+[10:00:07] INFO Camera initialized
+[10:00:08] INFO Robot moving forward
+[10:00:09] INFO Sensor reading: 42
+[10:00:10] INFO Sensor reading: 44
+[10:00:11] INFO Sensor reading: 45
+[10:00:12] INFO Wheel speed: 1.2
+[10:00:13] INFO Wheel speed: 1.3
+[10:00:14] INFO Distance from obstacle: 120
+[10:00:15] INFO Robot moving forward
+[10:00:16] WARNING Battery low
+[10:00:17] INFO Battery level: 25
+[10:00:18] INFO Robot slowing down
+[10:00:19] INFO Sensor reading: 41
+[10:00:20] INFO Sensor reading: 39
+[10:00:21] WARNING Distance from obstacle is getting low
+[10:00:22] INFO Distance from obstacle: 45
+[10:00:23] INFO Robot turning left
+[10:00:24] INFO Motor left speed: 0.8
+[10:00:25] INFO Motor right speed: 1.2
+[10:00:26] INFO Robot turning complete
+[10:00:27] INFO Robot moving forward
+[10:00:28] INFO Sensor reading: 43
+[10:00:29] INFO Sensor reading: 47
+[10:00:30] ERROR Motor right failure
+[10:00:31] INFO Motor right stopped
+[10:00:32] WARNING Motor temperature rising
+[10:00:33] INFO Motor left still running
+[10:00:34] INFO Robot attempting recovery
+[10:00:35] INFO Motor right restart attempt
+[10:00:36] INFO Motor right started
+[10:00:37] INFO Robot recovery successful
+[10:00:38] INFO Sensor reading: 46
+[10:00:39] INFO Sensor reading: 48
+[10:00:40] INFO Distance from obstacle: 90
+[10:00:41] INFO Robot moving forward
+[10:00:42] WARNING Battery low
+[10:00:43] INFO Battery level: 18
+[10:00:44] INFO Robot reducing speed
+[10:00:45] INFO Wheel speed: 0.7
+[10:00:46] INFO Wheel speed: 0.7
+[10:00:47] INFO Sensor reading: 40
+[10:00:48] INFO Sensor reading: 38
+[10:00:49] INFO Robot approaching obstacle
+[10:00:50] WARNING Distance from obstacle is critical
+[10:00:51] INFO Distance from obstacle: 18
+[10:00:52] INFO Robot stopping
+[10:00:53] INFO Motor left stopped
+[10:00:54] INFO Motor right stopped
+[10:00:55] INFO Waiting for obstacle to clear
+[10:00:56] INFO Distance from obstacle: 20
+[10:00:57] INFO Distance from obstacle: 25
+[10:00:58] INFO Distance from obstacle: 40
+[10:00:59] INFO Obstacle cleared
+[10:01:00] INFO Robot moving forward
+[10:01:01] INFO Sensor reading: 44
+[10:01:02] INFO Sensor reading: 46
+[10:01:03] INFO Sensor reading: 49
+[10:01:04] ERROR Ultrasonic sensor timeout
+[10:01:05] WARNING Ultrasonic sensor responding slowly
+[10:01:06] INFO Attempting ultrasonic sensor recovery
+[10:01:07] INFO Ultrasonic sensor restarted
+[10:01:08] INFO Ultrasonic sensor responding
+[10:01:09] INFO Distance from obstacle: 110
+[10:01:10] INFO Robot continuing forward
+[10:01:11] INFO Battery level: 15
+[10:01:12] WARNING Battery level below safe operating limit
+[10:01:13] INFO Robot entering low-power mode
+[10:01:14] INFO Wheel speed: 0.4
+[10:01:15] INFO Wheel speed: 0.4
+[10:01:16] INFO Camera frame captured
+[10:01:17] INFO Camera frame captured
+[10:01:18] INFO Camera frame captured
+[10:01:19] ERROR Camera communication failure
+[10:01:20] INFO Camera restart requested
+[10:01:21] INFO Camera restarted
+[10:01:22] INFO Camera initialized
+[10:01:23] INFO Camera frame captured
+[10:01:24] INFO Camera frame captured
+[10:01:25] WARNING CPU usage high
+[10:01:26] INFO CPU usage: 82
+[10:01:27] INFO CPU usage: 79
+[10:01:28] INFO CPU usage: 76
+[10:01:29] INFO Robot diagnostics running
+[10:01:30] INFO Motor left status: OK
+[10:01:31] INFO Motor right status: OK
+[10:01:32] INFO Ultrasonic sensor status: OK
+[10:01:33] INFO Temperature sensor status: OK
+[10:01:34] INFO Camera status: OK
+[10:01:35] INFO Battery level: 14
+[10:01:36] WARNING Battery level critical
+[10:01:37] ERROR Battery voltage unstable
+[10:01:38] INFO Robot stopping
+[10:01:39] INFO Motor left stopped
+[10:01:40] INFO Motor right stopped
+[10:01:41] INFO Saving robot state
+[10:01:42] INFO Robot state saved
+[10:01:43] INFO Shutdown sequence started
+[10:01:44] INFO Sensors shutting down
+[10:01:45] INFO Motors shutting down
+[10:01:46] INFO Robot system shutdown complete

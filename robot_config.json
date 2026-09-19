@@ -1,0 +1,10 @@
+{
+    "name": "RoboOne",
+    "wheel_radius": 3.5,
+    "max_speed": 2.3,
+    "sensors": [
+        "ultrasonic",
+        "temperature"
+    ],
+    "battery_capacity": 2200
+}
